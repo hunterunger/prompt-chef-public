@@ -1,0 +1,10 @@
+{
+    "name": "Prompt Chef",
+    "short_name": "Prompt Chef",
+    "icons": [],
+    "theme_color": "#FFFFFF",
+    "background_color": "#232323",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+}
